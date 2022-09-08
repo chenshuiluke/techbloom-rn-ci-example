@@ -1,0 +1,2 @@
+{"C:\\Users\\lukec\\code\\git\\techbloom-rn-ci-example\\App.js": {"path":"C:\\Users\\lukec\\code\\git\\techbloom-rn-ci-example\\App.js","statementMap":{"0":{"start":{"line":6,"column":2},"end":{"line":11,"column":4}},"1":{"start":{"line":14,"column":15},"end":{"line":21,"column":2}}},"fnMap":{"0":{"name":"App","decl":{"start":{"line":5,"column":24},"end":{"line":5,"column":27}},"loc":{"start":{"line":5,"column":30},"end":{"line":12,"column":1}},"line":5}},"branchMap":{},"s":{"0":0,"1":0},"f":{"0":0},"b":{}}
+}
