@@ -10,6 +10,7 @@ const Counter = () => {
       <Pressable onPress={increment}>
         <Text>Increment</Text>
       </Pressable>
+      <Text>etc</Text>
     </>
   );
 };
